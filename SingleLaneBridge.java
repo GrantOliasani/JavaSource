@@ -1,9 +1,5 @@
 
-/**
- * Brandon Hutchins
- * 3-20-15
- * Operating Systems
- */
+
 	import java.util.concurrent.Semaphore;
 	import java.util.concurrent.TimeUnit;
 	 
